@@ -43,7 +43,7 @@ profiles:
   - icon: academicons/cv
     url: uploads/resume.pdf
     label: Download my resume
-  - icon: orcid
+  - icon: brands/orcid
     url: https://orcid.org/0000-0002-7941-2395
     label: 'ORCID ID: 0000-0002-7941-2395'
   - icon: rss
